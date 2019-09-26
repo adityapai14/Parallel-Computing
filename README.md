@@ -1,2 +1,2 @@
 # Parallel-Computing
-Repository for the IT300 Parallel Computing project
+Repository for the IT300 Parallel Computing course project
